@@ -7,3 +7,5 @@ The purpose of this git is a forum to test improve our individual algorithms and
 how to function as a team using a git repository.
 
 Do not turn in a copy of this work. Do your own work and feel free to use this as a starting point.
+
+Disclaimer: Prof. Christine Agulera has not given explicit permssion for this repository.
