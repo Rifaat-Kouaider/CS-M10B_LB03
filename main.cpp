@@ -52,7 +52,7 @@ int main()
         }
         else
         {
-            cout << "Please enter a valid charicter" << endl;
+            cout << "Please enter a valid character" << endl;
         }
         
         while (LOOPMATHMENU)
@@ -94,7 +94,7 @@ int main()
             }
             else
             {
-                cout << "Please enter a valid charicter" << endl;
+                cout << "Please enter a valid character" << endl;
             }
         }
     }
